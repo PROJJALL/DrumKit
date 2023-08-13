@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    background-image: url(images/sweta1.jpeg);
+    background-size: cover;
+  }
+
+  /* background-color: #283149; */
+  
+  h1 {
+    font-size: 5rem;
+    color: #003b4edb;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #ffffff;
+  
+  }
+  
+  footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
+  
+.a {
+}
+  
+.b{
+
+  }
+  
+  .c {
+
+  }
+  
+  .d {
+
+  }
+  
+  .e {
+
+  }
+  
+  .f {
+
+  }
+  
+  .g {
+
+  }
+  
+  .set {
+    margin: 10% auto;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .drum {
+    outline: none;
+    border: 10px solid #003b4edb;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 1;
+    font-weight: 900;
+    color: #003b4edb;
+    text-shadow: 3px 0 #2f3f45;
+    border-radius: 15px;
+    display: inline-block;
+    width: 130px;
+    height: 130px;
+    text-align: center;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.656);
+  }
+
+  /*#404B69
